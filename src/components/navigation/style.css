@@ -1,0 +1,13 @@
+.navigation {
+    height: 60px;
+    background-color: blue;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 100%;
+}
+.navbarItems {
+    display: inline;
+    display: flex;
+    justify-content: space-around;
+}
