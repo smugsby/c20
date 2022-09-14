@@ -11,7 +11,7 @@ const Project = () => {
             <div className="projectsContainer">
                 <div className='as1'>
                     <h5>landing page</h5>
-                    <a href = "https://github.com/smugsby/Week2" target = "_blank" rel = "noreferrer"><img src='assets\images\templatephonesites.jpg' alt=''></img></a>
+                    <a href = "https://smugsby.github.io/week1challenge/" target = "_blank" rel = "noreferrer"><img src='../Week2/assets/images/One Week Challenge.jpg' alt=''></img></a>
                 </div>
                 <div className='as1'>
                     <h5>landing page</h5>
